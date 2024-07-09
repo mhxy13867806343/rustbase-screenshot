@@ -34,8 +34,5 @@
 	justify-content:var(--justify-content-space-around--);
 	align-items:var(--align-items-center--);
 }
-.icon-svg,.icon{
-	width: 40px;
-	height: 40px;
-}
+
 </style>
